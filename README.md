@@ -4,4 +4,4 @@ Nulls signiture verification is dissapointing at best... this could by done by a
 
 ## How to use
 
-Replace `WildCatStatus.java` smali with the contents of `e.smali`.
+Replace `WildCatStatus.java` smali with the contents of `WildCatStatus.smali`.
